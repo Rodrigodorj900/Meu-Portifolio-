@@ -23,7 +23,5 @@ cards.forEach(card => {
     observer.observe(card);
 });
 
-function abrirEmail() {
-    window.location.href = "mailto:lucasgomesdealmeida29l@email.com?subject=Contato pelo Portfólio&body=Olá Lucas, vi seu portfólio e gostaria de conversar com você.";
-}
+
 
