@@ -118,3 +118,20 @@ footer {
         display: none;
     }
 }
+
+.btn {
+    background-color: #25D366; /* verde WhatsApp */
+    color: white;
+    padding: 12px 25px;
+    border-radius: 30px;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    background-color: #1ebe57;
+}
+
+
